@@ -1,0 +1,37 @@
+.name {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.type {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.grass {
+    color: #729F3F;
+}
+
+.fire {
+    color: #FD7D24;
+}
+
+.water {
+    color: #4592C4;
+}
+
+.poison {
+    color: #BE78BE;
+}
+
+.bug {
+    color: #31B231;
+}
+
+.flying {
+    color: #79BCD7;
+}
+
+.normal {
+    color: #A0A0A0;
+}
